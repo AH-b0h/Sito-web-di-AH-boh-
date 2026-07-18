@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HO FATTO LA CACCA PER TERRA!</title>
+
+    <style>
+        body {
+            margin: 0;
+            background: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        iframe {
+            width: 100vw;
+            height: 100vh;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+<iframe
+    src="https://www.youtube.com/embed/cctA4e4CA5A?autoplay=1&mute=1&rel=0"
+    allow="autoplay; encrypted-media; fullscreen"
+    allowfullscreen>
+</iframe>
+
+</body>
+</html>
